@@ -1,0 +1,19 @@
+id,title,tags,time_mins,equipment,muscles
+1,Jogging,cardio;low-impact,30,none,legs;full-body
+2,Jump Rope HIIT,cardio;hiit,20,jump rope,legs;cardio
+3,Stationary Bike Intervals,cardio;hiit,25,bike,legs;cardio
+4,Bodyweight Circuit,strength;full-body,30,bodyweight,full-body;core
+5,Push-ups,strength,15,bodyweight,chest;triceps;core
+6,Pull-ups,strength,15,bodyweight,back;biceps;core
+7,Dumbbell Squats,strength,25,dumbbell,legs;glutes
+8,Dumbbell Bench Press,strength,25,dumbbell,chest;triceps
+9,Dumbbell Rows,strength,25,dumbbell,back;biceps
+10,Kettlebell Swings,strength;cardio,20,kettlebell,hips;back;core
+11,Plank Core,mobility;core,10,mat,core
+12,Yoga Flow,mobility;stretch,30,mat,full-body
+13,Shoulder Press,strength,20,dumbbell,shoulders;triceps
+14,Lunge Walk,strength,15,bodyweight,legs;glutes
+15,Burpees,hiit;cardio,12,bodyweight,full-body;cardio
+16,Resistance Band Pull Aparts,mobility;strength,12,band,shoulders;upper-back
+17,Deadlift Technique,strength,20,barbell,back;glutes;hamstrings
+18,Rowing Machine Intervals,cardio;hiit,20,rower,back;cardio
